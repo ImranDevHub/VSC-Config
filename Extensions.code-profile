@@ -1,0 +1,197 @@
+[
+  {
+    "id": "aaron-bond.better-comments",
+    "uuid": "7a0110bb-231a-4598-aa1b-0769ea46d28b",
+    "displayName": "Better Comments"
+  },
+  {
+    "id": "anteprimorac.html-end-tag-labels",
+    "uuid": "373a8fcf-9125-4d72-807d-f98890a552d8",
+    "displayName": "HTML End Tag Labels"
+  },
+  {
+    "id": "bradgashler.htmltagwrap",
+    "uuid": "c16f95f6-9b42-4a24-9bf4-245d4ea54fc5"
+  },
+  {
+    "id": "bradlc.vscode-tailwindcss",
+    "uuid": "4db62a7c-7d70-419c-96d2-6c3a4dc77ea5",
+    "displayName": "Tailwind CSS IntelliSense",
+    "version": "0.12.11"
+  },
+  {
+    "id": "brandonkirbyson.vscode-animations",
+    "uuid": "7d7c0d21-6653-4c11-9310-75b7180bbf81",
+    "displayName": "VSCode Animations",
+    "version": "2.0.4"
+  },
+  {
+    "id": "burkeholland.simple-react-snippets",
+    "uuid": "a84825e8-5f04-4988-b85a-4942e795bcbe",
+    "displayName": "Simple React Snippets"
+  },
+  {
+    "id": "christian-kohler.npm-intellisense",
+    "uuid": "dff6b801-247e-40e9-82e8-8c9b1d19d1b8",
+    "displayName": "npm Intellisense"
+  },
+  {
+    "id": "christian-kohler.path-intellisense",
+    "uuid": "a41c1549-4053-44d4-bf30-60fc809b4a86",
+    "displayName": "Path Intellisense"
+  },
+  {
+    "id": "davidmorais.dark-magic-themes",
+    "uuid": "fd650e5a-054b-41d8-a5b4-c638eba873c8",
+    "displayName": "Dark Magic Themes"
+  },
+  {
+    "id": "dbaeumer.vscode-eslint",
+    "uuid": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+    "displayName": "ESLint"
+  },
+  {
+    "id": "drcika.apc-extension",
+    "uuid": "c445982f-a615-472b-a90e-0a9edd88b8e8",
+    "displayName": "Apc Customize UI++"
+  },
+  {
+    "id": "eamodio.gitlens",
+    "uuid": "4de763bd-505d-4978-9575-2b7696ecf94e",
+    "displayName": "GitLens — Git supercharged",
+    "version": "15.5.1"
+  },
+  {
+    "id": "ecmel.vscode-html-css",
+    "uuid": "aaee577c-f062-495a-9816-0cbd442f1d25",
+    "displayName": "HTML CSS Support"
+  },
+  {
+    "id": "esbenp.prettier-vscode",
+    "uuid": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+    "displayName": "Prettier - Code formatter"
+  },
+  {
+    "id": "formulahendry.auto-close-tag",
+    "uuid": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+    "displayName": "Auto Close Tag"
+  },
+  {
+    "id": "formulahendry.auto-rename-tag",
+    "uuid": "6e440e71-8ed9-4f25-bb78-4b13096b8a03",
+    "displayName": "Auto Rename Tag"
+  },
+  {
+    "id": "formulahendry.code-runner",
+    "uuid": "a6a0c5b2-d078-4bf5-a9ee-4e37054414b3",
+    "displayName": "Code Runner"
+  },
+  {
+    "id": "glenn2223.live-sass",
+    "uuid": "137c3643-510d-4a1f-a737-793c72e8b411",
+    "displayName": "Live Sass Compiler"
+  },
+  {
+    "id": "hossaini.bootstrap-intellisense",
+    "uuid": "7846dad3-dea1-40d3-a7f2-da368838d5fb",
+    "displayName": "Bootstrap IntelliSense",
+    "version": "1.5.5"
+  },
+  {
+    "id": "htmlhint.vscode-htmlhint",
+    "uuid": "d0a9daff-de6d-4669-a30b-14a49a1a17e0",
+    "displayName": "HTMLHint"
+  },
+  {
+    "id": "kisstkondoros.vscode-gutter-preview",
+    "uuid": "eedfd044-d5ac-4389-973d-3ac1fdb98ad5",
+    "displayName": "Image preview"
+  },
+  {
+    "id": "meganrogge.template-string-converter",
+    "uuid": "e56ae0dc-ddd7-462a-872d-6d14ea27f737",
+    "displayName": "Template String Converter"
+  },
+  {
+    "id": "mhutchie.git-graph",
+    "uuid": "438221f8-1107-4ccd-a6fe-f3b7fe0856b7",
+    "displayName": "Git Graph"
+  },
+  {
+    "id": "miguelsolorio.fluent-icons",
+    "uuid": "41aac8eb-b4f4-408d-9708-320d033a17f8",
+    "displayName": "Fluent Icons"
+  },
+  {
+    "id": "mikestead.dotenv",
+    "uuid": "532533c9-a894-4a58-9eee-bbfbe7c06f71",
+    "displayName": "DotENV"
+  },
+  {
+    "id": "monokai.theme-monokai-pro-vscode",
+    "uuid": "f5d7ffda-c1d6-4070-ba80-803c705a1ee6",
+    "displayName": "Monokai Pro"
+  },
+  {
+    "id": "mrmlnc.vscode-pugbeautify",
+    "uuid": "3ac1d727-45b0-45cb-b26c-8b3296bc165b",
+    "displayName": "Pug beautify"
+  },
+  {
+    "id": "mrmlnc.vscode-scss",
+    "uuid": "beb68b20-7c55-471c-9b63-3486f9423566",
+    "displayName": "SCSS IntelliSense"
+  },
+  {
+    "id": "ms-vscode.js-debug-nightly",
+    "uuid": "7acbb4ce-c85a-49d4-8d95-a8054406ae97",
+    "displayName": "JavaScript Debugger (Nightly)",
+    "version": "2024.9.2517"
+  },
+  {
+    "id": "naumovs.color-highlight",
+    "uuid": "121396ad-85a1-45ec-9fd1-d95028a847f5",
+    "displayName": "Color Highlight"
+  },
+  {
+    "id": "neptunedesign.vs-html-to-css",
+    "uuid": "86432a4f-c19d-459c-bf60-2776fab2186a",
+    "displayName": "VS HTML to CSS"
+  },
+  {
+    "id": "oderwat.indent-rainbow",
+    "uuid": "eaa2127d-cb69-4ab9-8505-a60c9ee5f28b"
+  },
+  {
+    "id": "postman.postman-for-vscode",
+    "uuid": "48fcb244-71c2-4877-aed3-29b36098a411",
+    "displayName": "Postman",
+    "version": "1.3.0"
+  },
+  {
+    "id": "pranaygp.vscode-css-peek",
+    "uuid": "0b8f8d63-11a2-4194-969c-ca7488b3413a",
+    "displayName": "CSS Peek"
+  },
+  {
+    "id": "prisma.prisma",
+    "uuid": "33ce9d6b-41cf-4972-a62b-386f7201981d",
+    "displayName": "Prisma",
+    "version": "5.4.2"
+  },
+  {
+    "id": "quicktype.quicktype",
+    "uuid": "7d1eeb35-fab9-4e70-9622-64c899a2eec8",
+    "displayName": "quicktype"
+  },
+  {
+    "id": "streetsidesoftware.code-spell-checker",
+    "uuid": "a4d7d849-9b1c-43e0-b12f-7e4518f64bc7",
+    "displayName": "Spelling Checker"
+  },
+  {
+    "id": "tabnine.tabnine-vscode",
+    "uuid": "d73b0b21-bc0e-4559-90d1-98a4fdbbaf12",
+    "displayName": "Tabnine AI Autocomplete"
+  }
+]

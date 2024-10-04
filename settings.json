@@ -1,0 +1,207 @@
+{
+  //TODO: Font and Appearance
+  // "editor.fontFamily": "Dank Mono",
+  // "editor.fontFamily": "Fragment Mono",
+  // "editor.fontFamily": "Fira Code", // Font family for the editor
+  "editor.fontFamily": "Cascadia Code NF", // Font family for the editor
+  "editor.fontWeight": "900", // Bold font weight for editor text
+  "editor.fontLigatures": true, // Enable font ligatures
+  "editor.fontSize": 16, // Font size for the editor
+  "editor.lineHeight": 1.5,
+  "editor.lineNumbers": "on", // Show line numbers
+  "editor.minimap.enabled": false, // Enable minimap
+  "editor.smoothScrolling": true, // Disable smooth scrolling
+  "editor.stickyScroll.enabled": false, // Disable sticky scroll
+  "editor.cursorBlinking": "expand", // Cursor blinking style
+  "editor.cursorSmoothCaretAnimation": "on", // Enable smooth caret animation
+  "workbench.colorTheme": "Dark Magic Nord", // Icon theme for the workbench
+  "workbench.productIconTheme": "fluent-icons",
+  "window.zoomLevel": 1,
+  "files.autoSave": "onFocusChange", // Auto-save files on focus change
+  "editor.formatOnSave": true, // Format code on save
+  "editor.formatOnPaste": true, // Format code on paste
+  "editor.formatOnType": true, // Format code as you type
+  "editor.defaultFormatter": "esbenp.prettier-vscode", // Default formatter
+  "editor.tabSize": 3, // Tab width
+  "editor.detectIndentation": false,
+  "editor.wordWrap": "on", // Enable word wrap
+  "editor.multiCursorModifier": "ctrlCmd", // Multi-cursor modifier key
+  "editor.suggest.insertMode": "replace", // Insert mode for suggestions
+  "workbench.editor.enablePreview": false,
+  "explorer.compactFolders": false,
+  "breadcrumbs.enabled": false,
+  "editor.find.cursorMoveOnType": false,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "keyword",
+          "storage",
+          "entity",
+          "entity.other.inherited-class",
+          "constant",
+          "variable",
+          "string",
+          "support",
+          "invalid",
+          "strong",
+          "markup",
+          "meta"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      }
+    ]
+  },
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#12AE8F22", // Replace with your desired color
+    "editorSuggestWidget.selectedBackground": "#12ae8f15",
+    "list.activeSelectionBackground": "#3c6960c3",
+    "list.inactiveSelectionBackground": "#3c6960c3",
+    "list.focusBackground": "#3c6960c3",
+    "list.hoverBackground": "#3c69606a",
+    "terminalCursor.foreground": "#12AE8F"
+  },
+  "window.titleBarStyle": "native", // Custom title bar style
+  "window.menuBarVisibility": "hidden", // Menu bar visibility
+
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+
+  "apc.font.family": "Cascadia Code NF",
+  "apc.menubar.compact": true,
+  "apc.activityBar": {
+    "position": "bottom",
+    "size": 30,
+    "itemSize": 30,
+    "itemMargin": 10
+  },
+
+  "apc.statusBar": {
+    "position": "editor-bottom",
+    "height": 20,
+    "fontSize": 10
+  },
+  "apc.stylesheet": {
+    ".action-label.codicon.codicon-toolbar-more, .action-label.codicon.codicon-split-horizontal": "display: none !important",
+    ".quick-input-widget.show-file-icons, .editor-widget.find-widget": "box-shadow: none !important",
+    ".sidebar": "border: none !important",
+    ".title.tabs.show-file-icons, .composite.title.has-composite-bar, .part.panel basepanel.bottom.pane-composite-part": "box-shadow: none !important; background: #2E3440 !important",
+    ".horizontal-activitybar.activitybar-bottom .monaco-workbench .activitybar.bordered:after": "box-shadow: none !important; border: none !important"
+  },
+  "workbench.sideBar.location": "right",
+  "workbench.iconTheme": "Monokai Pro (Filter Octagon) Icons",
+  "workbench.statusBar.visible": false,
+  //   "workbench.editor.showTabs": "none",
+  "window.commandCenter": false,
+  "workbench.tips.enabled": false,
+  "editor.guides.indentation": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderLineHighlight": "none",
+  "editor.lightbulb.enabled": "off",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.scrollbar.verticalScrollbarSize": 5,
+  "files.insertFinalNewline": true,
+  "extensions.ignoreRecommendations": true,
+  "animations.CursorAnimationOptions": {
+    "Color": "#12AE8F"
+  },
+
+  /////////////////////////////////////////////////////
+
+  //TODO: Terminal Configuration
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontSize": 16, // Font size in the terminal
+  "terminal.integrated.fontFamily": "Cascadia Code NF", // Font family in the terminal
+  "terminal.integrated.cursorBlinking": true, // Enable cursor blinking
+  "terminal.integrated.cursorStyle": "underline", // Cursor style in the terminal
+  "terminal.integrated.cursorStyleInactive": "underline", // Cursor style when inactive
+  "terminal.integrated.fontWeight": "900", // Font weight in the terminal
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.suggest.quickSuggestions": true,
+  "terminal.integrated.tabs.enabled": false,
+  "terminal.integrated.lineHeight": 1.5,
+  /////////////////////////////////////////////////////
+
+  //TODO: Extensions and Plugins
+  "eslint.run": "onSave", // Run ESLint on save
+  "eslint.format.enable": true,
+  "code-runner.runInTerminal": true, // Run code in the terminal
+  "liveSassCompile.settings.useNewCompiler": false, // Use the old SASS compiler
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      // "savePath": "/client/amazon/src/assets/css",
+      "savePathReplacementPairs": null
+    }
+  ],
+  "scss.validate": true,
+  "css.validate": true,
+  "html.validate.styles": true,
+  "css.lint.validProperties": ["composes", "font", "font-size", "color"],
+  "html-css-class-completion.enableEmmetSupport": true,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "prettier.arrowParens": "avoid",
+  "prettier.singleQuote": true,
+  //   "symbols.hidesExplorerArrows": true,//for symbol extension
+
+  /////////////////////////////////////////////////////
+
+  //TODO: Files and Search Exclusions
+  "files.exclude": {
+    "**/.git": true, // Exclude .git directory
+    "**/.DS_Store": true, // Exclude .DS_Store files
+    "**/node_modules": true // Exclude node_modules directory
+  },
+  "search.exclude": {
+    "**/node_modules": true, // Exclude node_modules from search
+    "**/bower_components": true // Exclude bower_components from search
+  },
+
+  /////////////////////////////////////////////////////
+  //TODO: Additional Settings
+  "editor.accessibilitySupport": "off", // Disable accessibility support
+  "explorer.confirmDragAndDrop": false, // Disable confirmation for drag and drop
+  "explorer.confirmDelete": false, // Disable confirmation for delete
+  "git.autofetch": true, // Auto-fetch git changes
+  "git.openRepositoryInParentFolders": "never", // Never open repositories in parent folders
+  "javascript.updateImportsOnFileMove.enabled": "always", // Always update imports on file move
+  "reactSnippets.settings.importReactOnTop": false, // Do not automatically import React on top
+  "typescript.validate.enable": true, // Enable TypeScript validation
+  "console-ninja.maxLogViewerEntries": 150000, // Max log viewer entries for Console Ninja
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit", // Fix all issues explicitly on save
+    "source.organizeImports": "explicit", // Organize imports explicitly on save
+    "source.fixAll.eslint": "explicit" // Fix all ESLint issues explicitly on save
+  },
+  "tabnine.experimentalAutoImports": true, // Enable experimental auto imports in TabNine
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "workbench.startupEditor": "none", // Do not open an editor on startup
+  "extensions.autoUpdate": false, // Disable auto-update for extensions
+  "console-ninja.fontSize": 14, // Font size for Console Ninja
+  "console-ninja.featureSet": "Community", // Console Ninja feature set
+  "console-ninja.toolsToEnableSupportAutomaticallyFor": {
+    "live-server-extension": true,
+    "live-preview-extension": true
+  }, // Compact menu bar visibility
+  "git.enableSmartCommit": true,
+  "workbench.layoutControl.enabled": false,
+
+  "update.mode": "manual",
+  "animations.Install-Method": "Apc Customize UI++",
+  "animations.Enabled": true,
+  "apc.imports": [
+    "file:///c:/Users/imran/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.4/dist/updateHandler.js"
+  ],
+  "terminal.integrated.env.windows": {}
+}
